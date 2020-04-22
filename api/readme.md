@@ -34,5 +34,11 @@ Responses:
 
 
       200 - Sucess 
+      Format : {
+                "result": {
+                "companyName": ,
+                "macaddress": 
+                }
+                }
       400 - Bad request ( user doesn't give macaddress in proper format)
       
