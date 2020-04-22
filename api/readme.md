@@ -18,7 +18,14 @@ User input:
                 
                 
 To run in a command prompt:
+      
+      
+      python api.py in a command prompt window 
+      
 
+      in a another window run below command, for windows user run it in a gitbash
+      
+      
 
       curl -i -H "Content-Type: application/json" -X POST -d '{"macaddress":"88:53:2E:67:07:BE"}' http://localhost:5000/macaddress
  
